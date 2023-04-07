@@ -1,5 +1,6 @@
 # deepFM
 deepFM을 deepctr로 구현화 한 코드입니다.
+https://deepctr-doc.readthedocs.io/en/latest/Examples.html#classification-criteo
 #
 computer 가격과 관련된 요소를 feature로 하여 Rating을 예측하는 모델입니다.
 #
